@@ -3,6 +3,8 @@
 ![image](https://user-images.githubusercontent.com/10647224/153217343-324e5d41-6878-4b63-90f6-ef5c2848cded.png)
 
 ```
+整体项目参考 https://github.com/dappuniversity/dbank
+
 未接触过合约开发的同学可以 参考如下视频快速了解一下
 https://www.youtube.com/watch?v=xWFba_9QYmc
 
