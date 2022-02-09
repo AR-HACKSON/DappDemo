@@ -5,6 +5,13 @@
 ```
 整体项目参考 https://github.com/dappuniversity/dbank
 
+项目目录结构
+- migrate              存放部署文件
+- src/contracts/*.sol  存放合约
+- test                 合约的测试脚本
+- src/components       前端react.app.js
+
+
 未接触过合约开发的同学可以 参考如下视频快速了解一下
 https://www.youtube.com/watch?v=xWFba_9QYmc
 
